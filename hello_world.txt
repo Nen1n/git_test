@@ -1,1 +1,2 @@
 Hello Odin viewers!
+Added VSCode commit feature.
